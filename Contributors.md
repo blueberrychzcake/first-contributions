@@ -33,6 +33,7 @@
 - [Laide Lawal](https://github.com/LaideLawal)
 - [Philip]
 - [Jon Pena]
+- [Jamie Joice] (https://github.com/blueberrychzcake)
 - [3nhit] (https://github.com/3nhit)
 - [Grant Murombo] (https://github.com/chaperoneg)
 - [Greg Chan]
